@@ -4,7 +4,7 @@
 
 This is research Code For Utilizing merging Computer Vision Algorithms mixed with the GPT API to interpret images containing visual "languages" like circuits.
 
-Essentially while chatGPT is the state of the art at interpreting a text input, it is not good at giving meaningful feedback for images. Until November of 2023, it couldn't even process images and now it is unable to give complex answers about the state of a circuit when an image of it is given. This is remedied through the use of PyTorch Scene Classifiers, the YOLO CNN framework, and the use of the GPT API. Below are the steps involved in the algorithm.
+Essentially while ChatGPT is the state of the art at interpreting a text input, it is not good at giving meaningful feedback for images. Until November of 2023, it couldn't even process images and now it is unable to give complex answers about the state of a circuit when an image of it is given. This is remedied through the use of PyTorch Scene Classifiers, the YOLO CNN framework, and the use of the GPT API. Below are the steps involved in the algorithm.
 
 ### Steps To Algorithm
 
