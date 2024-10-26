@@ -19,3 +19,4 @@ Essentially while ChatGPT is the state of the art at interpreting a text input, 
 - A chrome web extension is currently in the works.
 - Segmentation is currently being tested.
 
+
